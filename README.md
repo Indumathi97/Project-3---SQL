@@ -1,6 +1,6 @@
 # Project-3: 🧮SQL
 Airline Database Analysis and Northwind Database Analysis
-**Overview**
+# Overview
 **Objective:** Extract and analyze sales and inventory data distributed over 12 interlinked tables.
 **Skills Used:** Advanced SQL queries including joins, views, aggregations
 **Deliverables:** SQL scripts and reports highlighting key metrics and growth opportunities
